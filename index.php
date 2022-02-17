@@ -15,7 +15,7 @@
 <body>
 <h2>AJAX Pet Adoption Agency</h2>
 <p>Below is a starter page for the AJAX Pet Adoption Agency assignment.</p>
-<div id="output">
+<div id="output">  
 <form id="myForm" action="" method="get">
 
    <div id="pet_feels">
@@ -57,6 +57,13 @@
         });
 
     });
+
+
+
+
+
+
+
 
    </script>
 </body>
